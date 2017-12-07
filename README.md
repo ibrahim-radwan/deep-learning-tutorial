@@ -10,4 +10,4 @@
 
 You are ready now to run spyder with tensorflow and keras libraries installed.
 
-Enjoy it :)
+Enjoy it :-)
