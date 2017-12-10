@@ -15,6 +15,6 @@
 ##### 2- pip install keras
 ##### 3- conda update --all
 
-You are ready now to run spyder with tensorflow and keras libraries installed.
+You are now ready to run spyder with tensorflow and keras libraries installed.
 
 Enjoy it :-)
